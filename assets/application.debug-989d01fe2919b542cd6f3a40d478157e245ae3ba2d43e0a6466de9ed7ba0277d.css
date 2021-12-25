@@ -1,0 +1,3263 @@
+/* line 7, app/assets/stylesheets/about.scss */
+body {
+  font-family: 'Proxima Nova';
+}
+
+/* line 10, app/assets/stylesheets/about.scss */
+section {
+  overflow: hidden;
+  width: 100vw;
+  position: relative;
+}
+
+/* line 15, app/assets/stylesheets/about.scss */
+.first {
+  height: 100vh;
+  background-color: #000;
+  background-image: url(section1-783d3ceef90d69f9223f8a808130ce03527677295e3fac20717867838e3b31e3.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 23, app/assets/stylesheets/about.scss */
+.first .mainpage {
+  margin: 10.556vw 4.167vw;
+  margin-top: 35.5vw;
+}
+
+/* line 26, app/assets/stylesheets/about.scss */
+.first .mainpage h1 {
+  color: #ECE1CF;
+  font-size: 16.667vw;
+  line-height: 100%;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+/* line 33, app/assets/stylesheets/about.scss */
+.first .mainpage h3 {
+  font-size: 2.6vw;
+  color: #ECE1CF;
+  margin-top: -30px;
+  font-weight: 600;
+}
+
+/* line 41, app/assets/stylesheets/about.scss */
+.second {
+  height: 100vh;
+  background-color: #ECE1CF;
+  background-image: url(section2-f6f7be224bb29ef72bf4be91c2d51987596d93fc223b135d03d234583c61ac24.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 49, app/assets/stylesheets/about.scss */
+.second .textblock2 {
+  margin: 6.25vw 10.556vw;
+}
+
+/* line 51, app/assets/stylesheets/about.scss */
+.second .textblock2 h2 {
+  margin: 0;
+}
+
+/* line 54, app/assets/stylesheets/about.scss */
+.second .textblock2 .blackhead {
+  color: #000;
+}
+
+/* line 57, app/assets/stylesheets/about.scss */
+.second .textblock2 .about {
+  color: #000;
+  font-size: 2.361vw;
+  line-height: 125%;
+  font-weight: 600;
+  width: 54.167vw;
+  margin-top: 4.861vw;
+}
+
+/* line 67, app/assets/stylesheets/about.scss */
+.third {
+  height: 100vh;
+  background-color: #000;
+}
+
+/* line 70, app/assets/stylesheets/about.scss */
+.third .pics3 {
+  margin: 6.25vw 10.556vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 75, app/assets/stylesheets/about.scss */
+.third .pics3 .quote_3 img {
+  width: 62.292vw;
+  height: auto;
+}
+
+/* line 80, app/assets/stylesheets/about.scss */
+.third .pics3 .c_3 {
+  margin-left: -9vw;
+  margin-top: 8vw;
+}
+
+/* line 83, app/assets/stylesheets/about.scss */
+.third .pics3 .c_3 img {
+  width: 35vw;
+  height: auto;
+}
+
+/* line 90, app/assets/stylesheets/about.scss */
+.forth {
+  height: 100vh;
+  background-color: #ECE1CF;
+  background-image: url(section4-770427c5ff1ffa2650b2f3f15caaf76721f93dd84e551e667beedaa5dc4d2541.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 98, app/assets/stylesheets/about.scss */
+.forth .textblock4 {
+  margin: 6.25vw 10.556vw;
+}
+
+/* line 100, app/assets/stylesheets/about.scss */
+.forth .textblock4 h2 {
+  margin: 0;
+}
+
+/* line 103, app/assets/stylesheets/about.scss */
+.forth .textblock4 .blackhead {
+  color: #000;
+}
+
+/* line 106, app/assets/stylesheets/about.scss */
+.forth .textblock4 .define {
+  margin: 4.861vw 0;
+  color: #000;
+  font-size: 2.361vw;
+  line-height: 125%;
+  font-weight: 600;
+  width: 54vw;
+}
+
+/* line 116, app/assets/stylesheets/about.scss */
+.fifth {
+  height: 100vh;
+  background-color: #CD4223;
+}
+
+/* line 119, app/assets/stylesheets/about.scss */
+.fifth .pics5 {
+  margin: 6.25vw 10.556vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 123, app/assets/stylesheets/about.scss */
+.fifth .pics5 .quote5 {
+  margin-left: -18vw;
+}
+
+/* line 125, app/assets/stylesheets/about.scss */
+.fifth .pics5 .quote5 img {
+  width: 66.389vw;
+  height: auto;
+}
+
+/* line 130, app/assets/stylesheets/about.scss */
+.fifth .pics5 .c5 {
+  margin-top: 13vw;
+  margin-left: -18vw;
+}
+
+/* line 133, app/assets/stylesheets/about.scss */
+.fifth .pics5 .c5 img {
+  width: 50vw;
+  height: auto;
+}
+
+/* line 140, app/assets/stylesheets/about.scss */
+.sixth {
+  height: 100vh;
+  background-color: #000;
+  background-image: url(section6-ea94c160b78e64b0fc8630347a461c78b0ba717667ae86d45ba30b9b6c148d26.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 148, app/assets/stylesheets/about.scss */
+.sixth .textblock6 {
+  margin: 6.25vw 10.556vw;
+}
+
+/* line 150, app/assets/stylesheets/about.scss */
+.sixth .textblock6 h2 {
+  font-size: 6.667vw;
+  font-weight: 600;
+  line-height: 88%;
+  margin: 0;
+}
+
+/* line 156, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .whitehead {
+  color: #ECE1CF;
+}
+
+/* line 159, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .statistic {
+  margin: 4.861vw 0;
+  color: #ECE1CF;
+  font-size: 2.361vw;
+  line-height: 125%;
+  font-weight: 600;
+  width: 54vw;
+}
+
+/* line 167, app/assets/stylesheets/about.scss */
+.sixth .textblock6 h6 {
+  color: #ECE1CF;
+  font-size: 1.667vw;
+  font-weight: 600;
+  margin: 0;
+}
+
+/* line 173, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .question {
+  color: #ECE1CF;
+  margin: 18px 0;
+  font-size: 1.389vw;
+  font-weight: 300;
+  line-height: 125%;
+}
+
+/* line 180, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers {
+  margin-top: 2.778vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 184, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .yes {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 187, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .yes .form1 {
+  width: 1.736vw;
+  height: 1.736vw;
+  background-color: #CD4223;
+  border-radius: 50%;
+}
+
+/* line 193, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .yes .txt {
+  margin-left: 1vw;
+  font-size: 1.389vw;
+  font-weight: 600;
+  line-height: 125%;
+  color: #ECE1CF;
+}
+
+/* line 201, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .no {
+  margin-left: 2vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 205, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .no .form2 {
+  width: 1.736vw;
+  height: 1.736vw;
+  background-color: #ECE1CF;
+  border-radius: 50%;
+}
+
+/* line 211, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .no .txt {
+  margin-left: 1vw;
+  font-size: 1.389vw;
+  font-weight: 600;
+  line-height: 125%;
+  color: #ECE1CF;
+}
+
+/* line 222, app/assets/stylesheets/about.scss */
+.seventh {
+  height: 100vh;
+  background-color: #ECE1CF;
+}
+
+/* line 225, app/assets/stylesheets/about.scss */
+.seventh .blackhead {
+  margin: 6.25vw 10.556vw;
+  color: #000;
+}
+
+/* line 229, app/assets/stylesheets/about.scss */
+.seventh .pics7 {
+  display: flex;
+  flex-direction: row;
+  margin-top: -4.861vw;
+}
+
+/* line 233, app/assets/stylesheets/about.scss */
+.seventh .pics7 .quote7 {
+  margin-left: 10.556vw;
+  position: relative;
+  z-index: 6;
+}
+
+/* line 237, app/assets/stylesheets/about.scss */
+.seventh .pics7 .quote7 img {
+  width: 60.764vw;
+  height: auto;
+}
+
+/* line 242, app/assets/stylesheets/about.scss */
+.seventh .pics7 .c7 {
+  position: relative;
+  z-index: 5;
+  margin-left: -21vw;
+  margin-top: -16.556vw;
+}
+
+/* line 247, app/assets/stylesheets/about.scss */
+.seventh .pics7 .c7 img {
+  width: 50vw;
+  height: auto;
+}
+
+/* line 254, app/assets/stylesheets/about.scss */
+.eighth {
+  height: 100vh;
+  background-color: #000;
+  background-image: url(section8-08d56f750632c0f5ce1861607cc2eac2845137656f8deb3893bc9a9295c1cd41.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 262, app/assets/stylesheets/about.scss */
+.eighth .textblock8 {
+  margin: 6.25vw 10.556vw;
+}
+
+/* line 264, app/assets/stylesheets/about.scss */
+.eighth .textblock8 h2 {
+  font-size: 6.667vw;
+  font-weight: 600;
+  line-height: 88%;
+  margin: 0;
+}
+
+/* line 270, app/assets/stylesheets/about.scss */
+.eighth .textblock8 .whitehead {
+  color: #ECE1CF;
+}
+
+/* line 273, app/assets/stylesheets/about.scss */
+.eighth .textblock8 .list {
+  margin-top: 4.861vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 277, app/assets/stylesheets/about.scss */
+.eighth .textblock8 .list ul {
+  margin-right: 10.069vw;
+}
+
+/* line 279, app/assets/stylesheets/about.scss */
+.eighth .textblock8 .list ul li {
+  color: #ECE1CF;
+  font-size: 2.361vw;
+  line-height: 125%;
+  font-weight: 600;
+  margin: 15px 0;
+}
+
+/* line 290, app/assets/stylesheets/about.scss */
+.ninth {
+  height: 100vh;
+  background-color: #CD4223;
+  height: 50vh;
+}
+
+/* line 294, app/assets/stylesheets/about.scss */
+.ninth footer {
+  margin: 4.167vw;
+}
+
+/* line 296, app/assets/stylesheets/about.scss */
+.ninth footer .people {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 299, app/assets/stylesheets/about.scss */
+.ninth footer .people .curator {
+  margin-left: 23.5vw;
+}
+
+/* line 302, app/assets/stylesheets/about.scss */
+.ninth footer .people h5 {
+  font-size: 1.944vw;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 1.736vw;
+  color: #000;
+  width: auto;
+}
+
+/* line 310, app/assets/stylesheets/about.scss */
+.ninth footer .people .names {
+  font-size: 1.528vw;
+  line-height: 125%;
+  margin-top: 0;
+  margin-left: 0;
+  color: #000;
+  width: auto;
+}
+
+/* line 319, app/assets/stylesheets/about.scss */
+.ninth footer .year {
+  margin-top: 6.944vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 324, app/assets/stylesheets/about.scss */
+.ninth footer .year .years {
+  width: auto;
+  font-size: 1.389vw;
+  font-weight: 600;
+  margin-top: 0;
+  margin-left: 0;
+  color: #000;
+}
+/* line 5, app/assets/stylesheets/comments.scss */
+.comments {
+  margin-top: 3.5vw;
+  margin-left: 0;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3.5vw;
+}
+
+/* line 11, app/assets/stylesheets/comments.scss */
+.comments h2 {
+  margin-top: 0;
+  margin-left: 0;
+  font-size: 2.083vw;
+}
+
+/* line 16, app/assets/stylesheets/comments.scss */
+.comments .username {
+  color: #000;
+  font-weight: 600;
+  font-family: 'Proxima Nova';
+  font-size: 1.190vw;
+  margin-bottom: 0;
+}
+
+/* line 23, app/assets/stylesheets/comments.scss */
+.comments .commentbody {
+  color: #444;
+  font-weight: 600;
+  font-family: 'Proxima Nova';
+  font-size: 1vw;
+  margin-top: .5vw;
+}
+
+/* line 30, app/assets/stylesheets/comments.scss */
+.comments .commentdelete {
+  width: 5.5vw;
+  height: 1.7vw;
+  border-radius: 2.679vw;
+  background: #444;
+  display: flex;
+  justify-content: center;
+}
+
+/* line 37, app/assets/stylesheets/comments.scss */
+.comments .commentdelete a {
+  font-size: .9vw;
+  margin-top: .3vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 46, app/assets/stylesheets/comments.scss */
+.comments .commentform form {
+  margin: 0;
+  background: none;
+}
+
+/* line 49, app/assets/stylesheets/comments.scss */
+.comments .commentform form label {
+  color: #444;
+  font-size: .9vw;
+  font-weight: 600;
+  display: flex;
+  margin-bottom: 0.4vw;
+  margin-top: 1.3vw;
+}
+
+/* line 57, app/assets/stylesheets/comments.scss */
+.comments .commentform form .full_comment {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 61, app/assets/stylesheets/comments.scss */
+.comments .commentform form .full_comment .field_body .comment_body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 64, app/assets/stylesheets/comments.scss */
+.comments .commentform form .full_comment .field_body .comment_body textarea {
+  color: #444;
+  border-radius: 3.264vw;
+  margin-left: 0;
+  padding: .5vw 1vw;
+  height: 2.381vw;
+  width: 20vw;
+  font-size: 1vw;
+  background: #ccc;
+  font-family: 'Proxima Nova';
+  font-weight: 600;
+  border: none;
+  resize: auto;
+  -webkit-appearence: none;
+}
+
+/* line 82, app/assets/stylesheets/comments.scss */
+.comments .commentform form .full_comment .actions_create input[type="submit"] {
+  width: 2.381vw;
+  height: 2.381vw;
+  background-image: url(arrow-644e04c0516c9407917b8b30d0e6898316e427861ed144934c68c05119837ebd.svg);
+  background-size: 100%;
+  margin-top: 2.8vw;
+  margin-left: .5vw;
+}
+/* line 1, app/assets/stylesheets/devise.scss */
+.whole_form {
+  display: flex;
+  justify-content: center;
+}
+
+/* line 4, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form {
+  margin-top: 15.556vw;
+  width: 22.222vw;
+  height: auto;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  border-radius: 2vw;
+}
+
+/* line 12, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content {
+  margin-top: 1.111vw;
+  text-align: center;
+}
+
+/* line 15, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content h2 {
+  font-family: 'Proxima Nova';
+  font-size: 2vw;
+  line-height: 90%;
+  font-weight: 800;
+}
+
+/* line 21, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content input[type="email"] {
+  font-size: .9vw;
+  font-weight: 600;
+  padding-left: .7vw;
+  width: 12vw;
+  height: 2.381vw;
+  background: #ddd;
+  color: #444;
+  border-radius: 3.264vw;
+  border: none;
+}
+
+/* line 32, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content label {
+  color: #444;
+  font-size: .9vw;
+  font-weight: 600;
+  display: flex;
+  margin-left: 3vw;
+  margin-bottom: .4vw;
+  margin-top: 1.3vw;
+}
+
+/* line 41, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content input[type="password"] {
+  font-size: .9vw;
+  font-weight: 600;
+  padding-left: .7vw;
+  width: 12vw;
+  height: 2.381vw;
+  background: #ddd;
+  color: #444;
+  border-radius: 3.264vw;
+  border: none;
+}
+
+/* line 52, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content input[type="text"] {
+  font-size: .9vw;
+  font-weight: 600;
+  margin-bottom: 1.5vw;
+  padding-left: .7vw;
+  width: 12vw;
+  height: 2.381vw;
+  background: #ddd;
+  color: #444;
+  border-radius: 3.264vw;
+  border: none;
+}
+
+/* line 64, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 1.5vw;
+}
+
+/* line 69, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field label {
+  padding-top: .1vw;
+}
+
+/* line 72, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field .container {
+  display: block;
+  position: relative;
+  padding-left: 2.353vw;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* line 81, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field .container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 1vw;
+  width: 1vw;
+  left: 0;
+  z-index: 11;
+}
+
+/* line 90, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field .container .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.35vw;
+  width: 1.35vw;
+  border-radius: .3vw;
+  background: #ddd;
+}
+
+/* line 100, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field .container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* line 103, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field .container input:checked ~ .checkmark {
+  background-color: #000;
+}
+
+/* line 106, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* line 111, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field .container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* line 114, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .checkbox_field .container .checkmark:after {
+  left: 0.4vw;
+  top: 0.235vw;
+  width: 0.25vw;
+  height: 0.5vw;
+  border: solid white;
+  border-width: 0 0.176vw 0.176vw 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/* line 126, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content input[type="submit"] {
+  width: auto;
+  border: none;
+  height: 2.381vw;
+  font-weight: 600;
+  margin-top: 2.5vw;
+  border-radius: 3.264vw;
+  padding: 0 1vw;
+  font-size: .9vw;
+  color: #fff;
+  background: #000;
+  cursor: pointer;
+}
+
+/* line 139, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .tap {
+  margin-left: -.5vw;
+  margin-top: 0;
+}
+
+/* line 143, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .else {
+  margin-top: 2vw;
+  width: 17.778vw;
+  margin-bottom: 2.778vw;
+}
+
+/* line 147, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .else a {
+  text-decoration: underline;
+  color: #444;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* line 153, app/assets/stylesheets/devise.scss */
+.whole_form .enter_form .inner_content .else p {
+  color: #000;
+  font-weight: 600;
+  margin: .2vw;
+}
+/* line 4, app/assets/stylesheets/posts.scss */
+body {
+  background: #F1F1F1;
+  font-family: 'Proxima Nova';
+}
+
+/* line 10, app/assets/stylesheets/posts.scss */
+.postbody {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 14, app/assets/stylesheets/posts.scss */
+.postbody .visible {
+  width: 73.75vw;
+  margin-left: 22.917vw;
+  margin-top: 9vw;
+}
+
+/* line 18, app/assets/stylesheets/posts.scss */
+.postbody .visible .postlinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 22, app/assets/stylesheets/posts.scss */
+.postbody .visible .postlinks .buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 26, app/assets/stylesheets/posts.scss */
+.postbody .visible .postlinks .edition {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 1.488vw;
+}
+
+/* line 31, app/assets/stylesheets/posts.scss */
+.postbody .visible .postlinks .edition a {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: auto;
+  padding: 0.4vw  1vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  margin-right: 1.488vw;
+}
+
+/* line 47, app/assets/stylesheets/posts.scss */
+.postbody .visible .postlinks .back {
+  width: 6vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* line 55, app/assets/stylesheets/posts.scss */
+.postbody .visible .postlinks .back a {
+  margin-top: 0.417vw;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 64, app/assets/stylesheets/posts.scss */
+.postbody .visible .allcontent {
+  margin-top: 4.167vw;
+}
+
+/* line 66, app/assets/stylesheets/posts.scss */
+.postbody .visible .allcontent .name {
+  font-size: 3.810vw;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+/* line 71, app/assets/stylesheets/posts.scss */
+.postbody .visible .allcontent .title {
+  font-size: 1.071vw;
+  font-weight: 600;
+  color: grey;
+  margin-top: 0;
+}
+
+/* line 77, app/assets/stylesheets/posts.scss */
+.postbody .visible .allcontent .skazka {
+  width: 60vw;
+  height: auto;
+  margin-top: 2.679vw;
+  font-size: 1.190vw;
+  font-weight: 400;
+}
+
+/* line 85, app/assets/stylesheets/posts.scss */
+.postbody .visible .favs {
+  background: none;
+  width: 45px;
+  height: 45px;
+  margin-left: 1vw;
+}
+
+/* line 90, app/assets/stylesheets/posts.scss */
+.postbody .visible .favs form {
+  width: 45px;
+  height: 45px;
+  margin-left: 0;
+  background: none;
+  background-image: url(bookmark-plus-20fbe2a235d412f946621fb4bbb67d71ad758ba77e96d6ab3c70ea77eb3e5c5c.svg);
+  background-size: 100%;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 0;
+}
+
+/* line 103, app/assets/stylesheets/posts.scss */
+.postbody .visible .favs form input[type="submit"] {
+  width: 45px;
+  height: 45px;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 110, app/assets/stylesheets/posts.scss */
+.postbody .visible .favs .dislike {
+  background-image: url(bookmark-fill-9a8bbeb4b0643ccbd9e010af54631d7b785491764d88104d983c05348c63cdb2.svg);
+  background-size: 100%;
+}
+
+/* line 121, app/assets/stylesheets/posts.scss */
+.newpost, .editpost {
+  height: 100vw;
+  width: 73.75vw;
+  margin-left: 3.472vw;
+  margin-top: 9vw;
+}
+
+/* line 126, app/assets/stylesheets/posts.scss */
+.newpost .back, .editpost .back {
+  width: 6vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* line 134, app/assets/stylesheets/posts.scss */
+.newpost .back a, .editpost .back a {
+  margin-top: 0.417vw;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 145, app/assets/stylesheets/posts.scss */
+.newpost, .editpost {
+  margin-left: 22.917vw;
+}
+
+/* line 147, app/assets/stylesheets/posts.scss */
+.newpost .postform, .editpost .postform {
+  margin-top: 2.778vw;
+}
+
+/* line 149, app/assets/stylesheets/posts.scss */
+.newpost .postform form, .editpost .postform form {
+  display: flex;
+  flex-direction: column;
+  background: none;
+  margin: 0;
+}
+
+/* line 154, app/assets/stylesheets/posts.scss */
+.newpost .postform form .information, .editpost .postform form .information {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 158, app/assets/stylesheets/posts.scss */
+.newpost .postform form .one_1, .newpost .postform form .two_2, .editpost .postform form .one_1, .editpost .postform form .two_2 {
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 161, app/assets/stylesheets/posts.scss */
+.newpost .postform form .one_1 .field, .newpost .postform form .two_2 .field, .editpost .postform form .one_1 .field, .editpost .postform form .two_2 .field {
+  margin-bottom: 1.736vw;
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 165, app/assets/stylesheets/posts.scss */
+.newpost .postform form .one_1 .field input[type="text"], .newpost .postform form .two_2 .field input[type="text"], .editpost .postform form .one_1 .field input[type="text"], .editpost .postform form .two_2 .field input[type="text"] {
+  width: 29.167vw;
+  height: 2.778vw;
+  border-radius: 0.347vw;
+  border: none;
+  padding: 0 1.042vw;
+  font-size: 1.111vw;
+}
+
+/* line 173, app/assets/stylesheets/posts.scss */
+.newpost .postform form .one_1 .field label, .newpost .postform form .two_2 .field label, .editpost .postform form .one_1 .field label, .editpost .postform form .two_2 .field label {
+  font-size: 1.111vw;
+  margin-bottom: 0.694vw;
+  color: #555;
+}
+
+/* line 180, app/assets/stylesheets/posts.scss */
+.newpost .postform form .two_2, .editpost .postform form .two_2 {
+  margin-left: 3.125vw;
+}
+
+/* line 183, app/assets/stylesheets/posts.scss */
+.newpost .postform form .two_2 .field select, .editpost .postform form .two_2 .field select {
+  width: 29.167vw;
+  height: 2.778vw;
+  border-radius: 0.347vw;
+  border: none;
+  padding-right: 2vw;
+  padding-left: 1.042vw;
+  font-size: 1.111vw;
+}
+
+/* line 194, app/assets/stylesheets/posts.scss */
+.newpost .postform form .textarea, .editpost .postform form .textarea {
+  display: flex;
+}
+
+/* line 197, app/assets/stylesheets/posts.scss */
+.newpost .postform form .textarea .content label, .editpost .postform form .textarea .content label {
+  font-size: 1.111vw;
+  color: #555;
+}
+
+/* line 201, app/assets/stylesheets/posts.scss */
+.newpost .postform form .textarea .content textarea, .editpost .postform form .textarea .content textarea {
+  margin-top: 0.694vw;
+  height: 20vw;
+  width: 61.111vw;
+  border-radius: 0.347vw;
+  border: none;
+  font-size: 1.111vw;
+  padding: 1vw;
+  font-family: 'Proxima Nova';
+}
+
+/* line 212, app/assets/stylesheets/posts.scss */
+.newpost .postform form .textarea .actions, .editpost .postform form .textarea .actions {
+  position: relative;
+}
+
+/* line 214, app/assets/stylesheets/posts.scss */
+.newpost .postform form .textarea .actions input[type="submit"], .editpost .postform form .textarea .actions input[type="submit"] {
+  position: absolute;
+  bottom: 0;
+  width: auto;
+  padding: 0 1vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  margin-left: 2.92vw;
+  margin-right: 0;
+}
+
+/* line 237, app/assets/stylesheets/posts.scss */
+.Black {
+  background: #000;
+}
+/* line 12, app/assets/stylesheets/promo.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 16, app/assets/stylesheets/promo.scss */
+body {
+  font-family: 'Proxima Nova';
+  margin: 0;
+}
+
+/* line 20, app/assets/stylesheets/promo.scss */
+.three, .one {
+  height: 100vh;
+  background-color: #CD4223;
+}
+
+/* line 24, app/assets/stylesheets/promo.scss */
+.two {
+  height: 100vh;
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 30, app/assets/stylesheets/promo.scss */
+.main {
+  margin-top: 3vw;
+}
+
+/* line 34, app/assets/stylesheets/promo.scss */
+section {
+  overflow: hidden;
+  width: 100vw;
+  position: relative;
+}
+
+/* line 38, app/assets/stylesheets/promo.scss */
+section a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* line 42, app/assets/stylesheets/promo.scss */
+section .descr {
+  position: relative;
+  z-index: 5;
+}
+
+/* line 45, app/assets/stylesheets/promo.scss */
+section .descr h1 {
+  color: #ECE1CF;
+  font-size: 16.667vw;
+  line-height: 100%;
+  font-weight: 800;
+  margin-left: 4.167vw;
+  margin-top: -33.336vw;
+}
+
+/* line 53, app/assets/stylesheets/promo.scss */
+section .descr h3 {
+  font-size: 2.6vw;
+  color: #ECE1CF;
+  margin-left: 4.37535vw;
+  margin-top: -15.8346vw;
+  font-weight: 600;
+}
+
+/* line 61, app/assets/stylesheets/promo.scss */
+section h2 {
+  margin: 4.167vw 0 0 4.167vw;
+  color: #000;
+  font-size: 7.361vw;
+  line-height: 90%;
+  font-weight: 800;
+  font-style: normal;
+  position: relative;
+  display: inline-block;
+}
+
+/* line 71, app/assets/stylesheets/promo.scss */
+section .subscribe {
+  margin-top: 8.334vw;
+}
+
+/* line 74, app/assets/stylesheets/promo.scss */
+section .larets {
+  color: #ECE1CF;
+  font-size: 2.222vw;
+  line-height: 115%;
+  width: 39vw;
+  font-weight: 400;
+  margin-left: -34.1694vw;
+  margin-top: 21.6684vw;
+}
+
+/* line 83, app/assets/stylesheets/promo.scss */
+section header {
+  width: 100vw;
+  height: 4.167vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* line 92, app/assets/stylesheets/promo.scss */
+section header h4 {
+  font-size: 2.222vw;
+  line-height: 80%;
+  text-align: center;
+  color: #000;
+  margin-left: 4.167vw;
+  margin-right: 4.167vw;
+  font-weight: 700;
+}
+
+/* line 102, app/assets/stylesheets/promo.scss */
+section form {
+  width: 45.139vw;
+  height: 4.861vw;
+  margin-left: 4.167vw;
+  margin-top: -1vw;
+  background: #000;
+  border-radius: 3.264vw;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 114, app/assets/stylesheets/promo.scss */
+section form input[type="email"] {
+  background-color: transparent;
+  border: none;
+  decoration: none;
+  font-size: 1.5vw;
+  line-height: 100%;
+  color: rgba(236, 225, 207, 0.7);
+  margin: 1.597vw 2.986vw;
+  font-weight: 400;
+  border: none;
+}
+
+/* line 123, app/assets/stylesheets/promo.scss */
+section form input[type="email"]:focus {
+  outline-width: 0;
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -webkit-writing-mode: none;
+}
+
+/* line 130, app/assets/stylesheets/promo.scss */
+section form input[type="submit"] {
+  background-color: transparent;
+  border: none;
+  decoration: none;
+  font-size: 1.944vw;
+  line-height: 100%;
+  font-weight: 400;
+  color: #ECE1CF;
+  margin-right: 2.92vw;
+  cursor: pointer;
+}
+
+/* line 140, app/assets/stylesheets/promo.scss */
+section .images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  z-index: 2;
+}
+
+/* line 145, app/assets/stylesheets/promo.scss */
+section .images .c1 {
+  margin-left: -8.334vw;
+  margin-top: -2.0835vw;
+}
+
+/* line 148, app/assets/stylesheets/promo.scss */
+section .images .c1 img {
+  width: 41.667vw;
+  height: auto;
+}
+
+/* line 153, app/assets/stylesheets/promo.scss */
+section .images .quote1 {
+  margin-top: 14.5845vw;
+  margin-left: -8.334vw;
+}
+
+/* line 156, app/assets/stylesheets/promo.scss */
+section .images .quote1 img {
+  width: 26.736vw;
+  height: auto;
+}
+
+/* line 161, app/assets/stylesheets/promo.scss */
+section .images .quote2 {
+  margin-left: -4.167vw;
+  margin-top: 24.1686vw;
+}
+
+/* line 164, app/assets/stylesheets/promo.scss */
+section .images .quote2 img {
+  width: 30vw;
+  height: auto;
+}
+
+/* line 170, app/assets/stylesheets/promo.scss */
+section .images .c2 img {
+  margin-left: -16.668vw;
+  margin-top: 16.668vw;
+  width: 41.667vw;
+  height: auto;
+}
+
+/* line 179, app/assets/stylesheets/promo.scss */
+section .c_3 img {
+  width: 44vw;
+  height: auto;
+  margin-top: 12.501vw;
+  margin-left: 2.0835vw;
+}
+
+/* line 187, app/assets/stylesheets/promo.scss */
+section .quote3 img {
+  width: 41.042vw;
+  height: auto;
+  margin-top: 12.501vw;
+  margin-left: -5.8338vw;
+}
+
+/* line 194, app/assets/stylesheets/promo.scss */
+section .quote4 {
+  margin-top: 2vw;
+  margin-left: 38.5vw;
+  margin-bottom: .7vw;
+}
+
+/* line 198, app/assets/stylesheets/promo.scss */
+section .quote4 img {
+  width: 41.042vw;
+  height: auto;
+}
+
+/* line 203, app/assets/stylesheets/promo.scss */
+section .opacity {
+  opacity: 0;
+  transition: .5s;
+}
+
+/* line 207, app/assets/stylesheets/promo.scss */
+section .quote4_a {
+  top: 24.5vw;
+  margin-left: 38.5vw;
+  margin-bottom: .7vw;
+  position: absolute;
+  z-index: 10;
+  opacity: 0;
+}
+
+/* line 214, app/assets/stylesheets/promo.scss */
+section .quote4_a img {
+  width: 41.042vw;
+  height: auto;
+}
+
+/* line 219, app/assets/stylesheets/promo.scss */
+section .opacity_a {
+  opacity: 1;
+  transition: .5s;
+}
+
+/* line 223, app/assets/stylesheets/promo.scss */
+section .down {
+  margin-top: -1vw;
+  margin-left: 4.167vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 228, app/assets/stylesheets/promo.scss */
+section .down .icons {
+  margin-top: 16vw;
+}
+
+/* line 230, app/assets/stylesheets/promo.scss */
+section .down .icons img {
+  margin-right: 1.389vw;
+}
+
+/* line 234, app/assets/stylesheets/promo.scss */
+section .down .c_4 {
+  margin-left: 52vw;
+  margin-top: -8vw;
+}
+
+/* line 237, app/assets/stylesheets/promo.scss */
+section .down .c_4 img {
+  width: 28vw;
+  height: auto;
+}
+/* line 5, app/assets/stylesheets/styleguide.scss */
+header {
+  width: 100%;
+  padding-top: 4.167vw;
+  padding-left: 4.167vw;
+  padding-right: 4.167vw;
+  font-family: '20Kopeek-bold';
+  position: relative;
+  background: #000;
+  display: flex;
+  justify-content: space-between;
+  top: 0;
+}
+
+/* line 17, app/assets/stylesheets/styleguide.scss */
+header .logo img {
+  width: 11.806vw;
+  display: inline-block;
+}
+
+/* line 23, app/assets/stylesheets/styleguide.scss */
+header .titles p {
+  color: #ECE1CF;
+  font-size: 1.389vw;
+  margin: 0;
+}
+
+/* line 30, app/assets/stylesheets/styleguide.scss */
+.menubar_n {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  left: 4.167vw;
+  font-family: '20Kopeek-bold';
+  top: 11.111vw;
+  z-index: 100;
+}
+
+/* line 38, app/assets/stylesheets/styleguide.scss */
+.menubar_n a {
+  color: #D84E00;
+  text-decoration: none;
+  margin-bottom: 1.042vw;
+  font-size: 1.250vw;
+}
+
+/* line 45, app/assets/stylesheets/styleguide.scss */
+.cover {
+  width: auto;
+  height: 100vh;
+  background: #000;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+/* line 52, app/assets/stylesheets/styleguide.scss */
+.cover .eyes-container {
+  margin-left: 15vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 46.27vh;
+  width: 80.111vw;
+}
+
+/* line 59, app/assets/stylesheets/styleguide.scss */
+.cover .eyes-container .eye {
+  position: relative;
+  display: inline-block;
+  border-radius: 50%;
+  height: 20vw;
+  width: 35vw;
+  margin: 4vw;
+  background: #ECE1CF;
+}
+
+/* line 67, app/assets/stylesheets/styleguide.scss */
+.cover .eyes-container .eye .ball {
+  position: absolute;
+  width: 6.944vw;
+  height: 20vw;
+  top: 1%;
+  left: 40%;
+  border-radius: 50%;
+  background: #000;
+}
+
+/* line 79, app/assets/stylesheets/styleguide.scss */
+.brand_about {
+  height: auto;
+  width: 100%;
+  background: #000;
+  position: relative;
+}
+
+/* line 84, app/assets/stylesheets/styleguide.scss */
+.brand_about .about_b {
+  padding-right: 4.167vw;
+  width: 100%;
+  padding-top: 11.111vw;
+}
+
+/* line 88, app/assets/stylesheets/styleguide.scss */
+.brand_about .about_b .allinside {
+  margin-left: 27vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 93, app/assets/stylesheets/styleguide.scss */
+.brand_about .about_b .allinside .consept h2 {
+  margin: 0;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 99, app/assets/stylesheets/styleguide.scss */
+.brand_about .about_b .allinside .consept p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 107, app/assets/stylesheets/styleguide.scss */
+.brand_about .about_b .allinside .values {
+  margin-left: 12.153vw;
+}
+
+/* line 109, app/assets/stylesheets/styleguide.scss */
+.brand_about .about_b .allinside .values h2 {
+  margin: 0;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 115, app/assets/stylesheets/styleguide.scss */
+.brand_about .about_b .allinside .values .list {
+  margin-top: 3.472vw;
+}
+
+/* line 117, app/assets/stylesheets/styleguide.scss */
+.brand_about .about_b .allinside .values .list li {
+  margin-bottom: 1.042vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 129, app/assets/stylesheets/styleguide.scss */
+.brand_about .mission_b p {
+  width: 56.944vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+  font-size: 2.500vw;
+  margin-left: 27vw;
+  margin-top: 9.722vw;
+}
+
+/* line 139, app/assets/stylesheets/styleguide.scss */
+.brand_about .personality_b h2 {
+  margin-left: 27vw;
+  margin-top: 9.722vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 146, app/assets/stylesheets/styleguide.scss */
+.brand_about .personality_b .prsnl {
+  margin-top: -5vw;
+  margin-left: 15vw;
+}
+
+/* line 149, app/assets/stylesheets/styleguide.scss */
+.brand_about .personality_b .prsnl img {
+  width: 83.5vw;
+}
+
+/* line 155, app/assets/stylesheets/styleguide.scss */
+.logotip {
+  background: #ECE1CF;
+}
+
+/* line 157, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 {
+  margin-left: 27vw;
+}
+
+/* line 160, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .logotip_about h2 {
+  margin: 0;
+  padding-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 167, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .logotip_about p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 176, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .logotip_p h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 183, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .logotip_p .p_img {
+  margin-top: 3.472vw;
+  margin-left: 5.5vw;
+}
+
+/* line 186, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .logotip_p .p_img img {
+  width: 46.875vw;
+}
+
+/* line 192, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .calculation h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 199, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .calculation .calc_img {
+  margin-top: 3.472vw;
+}
+
+/* line 201, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .calculation .calc_img img {
+  width: 54.861vw;
+}
+
+/* line 207, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .reversed h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 214, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .reversed .rev_img {
+  margin-top: 3.472vw;
+}
+
+/* line 216, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .reversed .rev_img img {
+  width: 54.861vw;
+}
+
+/* line 222, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .monochrome h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 229, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .monochrome p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 236, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .monochrome .chrome_img {
+  margin-top: 3.472vw;
+}
+
+/* line 238, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .monochrome .chrome_img img {
+  width: 54.861vw;
+}
+
+/* line 243, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .forbidden {
+  margin-bottom: 4.167vw;
+}
+
+/* line 245, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .forbidden h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 252, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .forbidden p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 259, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .forbidden .frb_img {
+  margin-top: 3.472vw;
+}
+
+/* line 261, app/assets/stylesheets/styleguide.scss */
+.logotip .allinside_2 .forbidden .frb_img img {
+  width: 54.861vw;
+}
+
+/* line 268, app/assets/stylesheets/styleguide.scss */
+.colors {
+  background: #000;
+}
+
+/* line 270, app/assets/stylesheets/styleguide.scss */
+.colors .full_set {
+  margin-top: 12.500vw;
+  margin-left: 17vw;
+}
+
+/* line 273, app/assets/stylesheets/styleguide.scss */
+.colors .full_set img {
+  width: 83.153vw;
+}
+
+/* line 278, app/assets/stylesheets/styleguide.scss */
+.colors .beads img {
+  width: 100vw;
+}
+
+/* line 282, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 {
+  margin-left: 27vw;
+  margin-bottom: 4.167vw;
+}
+
+/* line 285, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .hex {
+  margin-top: 11.111vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 290, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .hex .c1 .colourgroup {
+  margin-bottom: 2.083vw;
+}
+
+/* line 292, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .hex .c1 .colourgroup h3 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 3vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 300, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .hex .c1 .colourgroup p {
+  margin-top: 0;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 310, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .hex .c2 .colourgroup {
+  margin-bottom: 2.083vw;
+}
+
+/* line 312, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .hex .c2 .colourgroup h3 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 3vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 320, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .hex .c2 .colourgroup p {
+  margin-top: 0;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 331, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .rules h2 {
+  margin-left: 0;
+  margin-top: 9.722vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 338, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .rules .colorset {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 341, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .rules .colorset p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 348, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .rules .colorset .color_r {
+  margin-top: 4.514vw;
+  margin-left: 5.556vw;
+}
+
+/* line 351, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .rules .colorset .color_r img {
+  width: 26.042vw;
+}
+
+/* line 358, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .more h2 {
+  margin-left: 0;
+  margin-top: 9.722vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 365, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .more p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 374, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .exmpl h2 {
+  margin-left: 0;
+  margin-top: 9.722vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 381, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .exmpl .nations {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 386, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .exmpl .nations .c_1 .r p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 394, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .exmpl .nations .c_1 .r .nation_img img {
+  width: 22.917vw;
+}
+
+/* line 400, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .exmpl .nations .c_2 {
+  margin-left: 9.722vw;
+}
+
+/* line 403, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .exmpl .nations .c_2 .r p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 411, app/assets/stylesheets/styleguide.scss */
+.colors .allinside_3 .exmpl .nations .c_2 .r .nation_img img {
+  width: 22.917vw;
+}
+
+/* line 421, app/assets/stylesheets/styleguide.scss */
+.fonts {
+  background: #ECE1CF;
+}
+
+/* line 423, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 {
+  margin-left: 27vw;
+}
+
+/* line 426, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 433, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .first_font {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 436, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .first_font p {
+  margin-top: 9.722vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 443, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .first_font .kopeiki {
+  margin-left: 9.722vw;
+}
+
+/* line 445, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .first_font .kopeiki h1 {
+  margin-bottom: 0;
+  margin-top: 9.722vw;
+  font-size: 3.333vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 452, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .first_font .kopeiki p {
+  margin-top: 2.083vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 461, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .second_font {
+  display: flex;
+  flex-direction: row;
+  margin-top: 9.722vw;
+}
+
+/* line 465, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .second_font p {
+  margin-top: 9.722vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 472, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .second_font .crg {
+  margin-left: 9.722vw;
+}
+
+/* line 474, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .second_font .crg h1 {
+  margin-bottom: 0;
+  margin-top: 9.722vw;
+  font-size: 3.333vw;
+  color: #000;
+  font-family: 'Craftwork-Grotesk';
+}
+
+/* line 481, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .second_font .crg p {
+  margin-top: 2.083vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: 'Craftwork-Grotesk';
+}
+
+/* line 490, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .third_font {
+  display: flex;
+  flex-direction: row;
+  margin-top: 9.722vw;
+}
+
+/* line 494, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .third_font p {
+  margin-top: 9.722vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 501, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .third_font .cent {
+  margin-left: 9.722vw;
+}
+
+/* line 503, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .third_font .cent h1 {
+  margin-bottom: 0;
+  margin-top: 9.722vw;
+  font-size: 3.333vw;
+  color: #000;
+  font-family: '21Cent';
+}
+
+/* line 510, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .fonts_example .third_font .cent p {
+  margin-top: 2.083vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '21Cent';
+}
+
+/* line 521, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .head h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 528, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .head .h1 {
+  margin-top: 3.125vw;
+  font-size: 4.167vw;
+  line-height: 100%;
+  color: #000;
+  font-family: '20Kopeek-bold';
+  margin-bottom: 0;
+}
+
+/* line 536, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .head p {
+  margin-top: 1.389vw;
+  font-size: 1.389vw;
+  font-family: '20Kopeek-book';
+  color: #000;
+}
+
+/* line 544, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .midhead h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 551, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .midhead .h2 {
+  margin-top: 3.125vw;
+  font-size: 2.778vw;
+  line-height: 110%;
+  color: #000;
+  font-family: '20Kopeek-bold';
+  margin-bottom: 0;
+}
+
+/* line 559, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .midhead p {
+  margin-top: 1.389vw;
+  font-size: 1.389vw;
+  font-family: '20Kopeek-book';
+  color: #000;
+}
+
+/* line 567, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textm h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 574, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textm .h2 {
+  margin-top: 3.125vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #000;
+  font-family: '20Kopeek-book';
+  margin-bottom: 0;
+}
+
+/* line 582, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textm p {
+  margin-top: 1.389vw;
+  font-size: 1.389vw;
+  font-family: '20Kopeek-book';
+  color: #000;
+}
+
+/* line 590, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textrules h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 597, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textrules p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 604, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textrules .exmpls {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 608, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textrules .exmpls .right p {
+  margin-left: 0;
+  margin-top: 3.125vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 615, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textrules .exmpls .right .hh {
+  font-size: 4.167vw;
+}
+
+/* line 619, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textrules .exmpls .wrong {
+  margin-left: 9.722vw;
+}
+
+/* line 621, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textrules .exmpls .wrong p {
+  color: #D84E00;
+  margin-left: 0;
+  margin-top: 3.125vw;
+  margin-bottom: 4.167vw;
+  font-size: 1.389vw;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 629, app/assets/stylesheets/styleguide.scss */
+.fonts .allinside_3 .textrules .exmpls .wrong .hh {
+  color: #D84E00;
+  font-size: 4.167vw;
+}
+
+/* line 638, app/assets/stylesheets/styleguide.scss */
+.ornaments {
+  background: #000;
+}
+
+/* line 640, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 {
+  margin-left: 27vw;
+}
+
+/* line 643, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .geometry h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 650, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .geometry p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 657, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .geometry .g_img {
+  margin-top: 3.472vw;
+}
+
+/* line 659, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .geometry .g_img img {
+  width: 54.861vw;
+}
+
+/* line 665, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .national h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 672, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .national p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 679, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .national .n_img {
+  margin-top: 3.472vw;
+}
+
+/* line 681, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .national .n_img img {
+  width: 54.861vw;
+}
+
+/* line 686, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .lents {
+  margin-bottom: 4.167vw;
+}
+
+/* line 688, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .lents h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 695, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .lents p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 702, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .lents .l_img {
+  margin-top: 3.472vw;
+}
+
+/* line 704, app/assets/stylesheets/styleguide.scss */
+.ornaments .allinside_4 .lents .l_img img {
+  width: 54.861vw;
+}
+
+/* line 711, app/assets/stylesheets/styleguide.scss */
+.comp_logo {
+  background: #ECE1CF;
+}
+
+/* line 713, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 {
+  margin-left: 27vw;
+}
+
+/* line 717, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .fst .use h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 724, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .fst .use p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 732, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .fst .use_p {
+  margin-top: 3.472vw;
+}
+
+/* line 734, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .fst .use_p img {
+  width: 60.3vw;
+}
+
+/* line 739, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .scnd {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 743, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .scnd .use_m h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 751, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .scnd .use_m p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 759, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .scnd .eyes_l {
+  margin-top: 11.111vw;
+  margin-left: 9.722vw;
+}
+
+/* line 762, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .scnd .eyes_l img {
+  width: 24.306vw;
+}
+
+/* line 768, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .thrd h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 776, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .thrd p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 783, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .thrd .thrd_exmpls {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 4.167vw;
+}
+
+/* line 788, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .thrd .thrd_exmpls .asmain h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 796, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .thrd .thrd_exmpls .asmain p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 804, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .thrd .thrd_exmpls .asother {
+  margin-left: 9.722vw;
+}
+
+/* line 806, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .thrd .thrd_exmpls .asother h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #000;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 814, app/assets/stylesheets/styleguide.scss */
+.comp_logo .allinside_5 .thrd .thrd_exmpls .asother p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #000;
+  font-family: '20Kopeek-book';
+}
+
+/* line 826, app/assets/stylesheets/styleguide.scss */
+.composition {
+  background: #000;
+}
+
+/* line 828, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 {
+  margin-left: 27vw;
+}
+
+/* line 831, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .differs h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 839, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .differs p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 848, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial .all_r {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 851, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial .all_r .r_s {
+  margin-top: 11.111vw;
+}
+
+/* line 853, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial .all_r .r_s img {
+  width: 26.389vw;
+}
+
+/* line 857, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial .all_r .about_rs {
+  margin-left: 9.722vw;
+}
+
+/* line 859, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial .all_r .about_rs h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 867, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial .all_r .about_rs p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 878, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial_c h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 886, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial_c .rc {
+  margin-top: 3.472vw;
+}
+
+/* line 888, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .radial_c .rc img {
+  width: 54.861vw;
+}
+
+/* line 894, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .classic h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 902, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .classic .params {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 905, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .classic .params .scnd_c {
+  margin-left: 9.722vw;
+}
+
+/* line 908, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .classic .params p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 916, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .classic .cl_c {
+  margin-top: 3.472vw;
+}
+
+/* line 918, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .classic .cl_c img {
+  width: 54.861vw;
+}
+
+/* line 924, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .double h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 932, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .double p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 939, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .double .double_c {
+  margin-top: 3.472vw;
+}
+
+/* line 941, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .double .double_c img {
+  width: 54.861vw;
+}
+
+/* line 947, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 955, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile .mobile_c {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 959, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile .mobile_c .clsc p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 966, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile .mobile_c .clsc .m_c {
+  margin-top: 5.2vw;
+}
+
+/* line 968, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile .mobile_c .clsc .m_c img {
+  width: 26vw;
+}
+
+/* line 973, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile .mobile_c .rdl {
+  margin-left: 9.722vw;
+}
+
+/* line 975, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile .mobile_c .rdl p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 982, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile .mobile_c .rdl .m_c1 {
+  margin-top: 3.472vw;
+}
+
+/* line 984, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .mobile .mobile_c .rdl .m_c1 img {
+  width: 26vw;
+}
+
+/* line 992, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 1000, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster .poster_c {
+  margin-bottom: 4.167vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 1005, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster .poster_c .clsc p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 1012, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster .poster_c .clsc .p_c {
+  margin-top: 3.472vw;
+}
+
+/* line 1014, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster .poster_c .clsc .p_c img {
+  width: 26vw;
+}
+
+/* line 1019, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster .poster_c .rdl {
+  margin-left: 9.722vw;
+}
+
+/* line 1021, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster .poster_c .rdl p {
+  margin-top: 3.472vw;
+  width: 26vw;
+  font-size: 1.389vw;
+  color: #ECE1CF;
+  font-family: '20Kopeek-book';
+}
+
+/* line 1028, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster .poster_c .rdl .p_c1 {
+  margin-top: 6.772vw;
+}
+
+/* line 1030, app/assets/stylesheets/styleguide.scss */
+.composition .allinside_6 .poster .poster_c .rdl .p_c1 img {
+  width: 26vw;
+}
+
+/* line 1039, app/assets/stylesheets/styleguide.scss */
+.identity {
+  background: #000;
+}
+
+/* line 1041, app/assets/stylesheets/styleguide.scss */
+.identity .allinside_7 {
+  margin-left: 27vw;
+  margin-bottom: 4.167vw;
+}
+
+/* line 1044, app/assets/stylesheets/styleguide.scss */
+.identity .allinside_7 h2 {
+  margin-left: 0;
+  margin-top: 11.111vw;
+  font-size: 1.389vw;
+  line-height: 120%;
+  color: #ECE1CF;
+  font-family: '20Kopeek-bold';
+}
+
+/* line 1052, app/assets/stylesheets/styleguide.scss */
+.identity .allinside_7 img {
+  width: 65vw;
+  margin-top: 3.472vw;
+}
+
+/* line 1058, app/assets/stylesheets/styleguide.scss */
+footer {
+  background: #000;
+  display: flex;
+  justify-content: center;
+}
+
+/* line 1062, app/assets/stylesheets/styleguide.scss */
+footer img {
+  margin-top: 4.167vw;
+  width: 11.806vw;
+  margin-bottom: 4.167vw;
+}
+/* line 5, app/assets/stylesheets/subscribers.scss */
+.subscribers {
+  margin-top: 9vw;
+  margin-left: 22.917vw;
+  width: 73.75vw;
+  min-height: 100vh;
+}
+
+/* line 10, app/assets/stylesheets/subscribers.scss */
+.subscribers .head_button {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 14, app/assets/stylesheets/subscribers.scss */
+.subscribers .head_button h2 {
+  font-size: 2.361vw;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* line 20, app/assets/stylesheets/subscribers.scss */
+.subscribers .filter_panel_users {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3.472vw;
+}
+
+/* line 24, app/assets/stylesheets/subscribers.scss */
+.subscribers .filter_panel_users .sort_by {
+  font-size: 1.250vw;
+  font-weight: 600;
+}
+
+/* line 28, app/assets/stylesheets/subscribers.scss */
+.subscribers .filter_panel_users .cathegories {
+  display: flex;
+  flex-direction: row;
+  margin-left: 1.736vw;
+}
+
+/* line 32, app/assets/stylesheets/subscribers.scss */
+.subscribers .filter_panel_users .cathegories p {
+  font-size: 1.250vw;
+  color: #666;
+  margin: 0 3.472vw 0 0;
+  cursor: pointer;
+}
+
+/* line 40, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users {
+  margin-top: 2.292vw;
+}
+
+/* line 42, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .list_head {
+  display: flex;
+  flex-direction: row;
+  width: 73.750vw;
+  height: auto;
+  background: #ddd;
+  border-radius: 0.417vw;
+  margin-bottom: 2.222vw;
+}
+
+/* line 50, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .list_head div {
+  width: calc(100% / 5);
+}
+
+/* line 52, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .list_head div p {
+  font-size: 1.111vw;
+  line-height: 1.319vw;
+  font-weight: 600;
+  padding: 1.181vw 2.917vw;
+  margin: 0;
+}
+
+/* line 61, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .list_body {
+  display: flex;
+  flex-direction: row;
+  width: 73.750vw;
+  height: auto;
+  background: #fff;
+  border-radius: 0.417vw;
+  margin-bottom: 1.042vw;
+  transition: .5s;
+}
+
+/* line 70, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .list_body div {
+  width: calc(100% / 5);
+}
+
+/* line 73, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .list_body .avatar, .subscribers .postsection_users .list_body .username, .subscribers .postsection_users .list_body .email, .subscribers .postsection_users .list_body .date_s, .subscribers .postsection_users .list_body .status {
+  padding: 2.639vw 2.917vw;
+  display: inline-block;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+
+/* line 81, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .list_body .avatar .icon {
+  width: 5.278vw;
+  height: 5.278vw;
+  border-radius: 50%;
+  background: #C4C4C4;
+}
+
+/* line 88, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .list_body .date_s {
+  color: #aaa;
+}
+
+/* line 92, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3.819vw;
+}
+
+/* line 96, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile .avatar_m {
+  width: 10.764vw;
+  height: 10.764vw;
+  background: #c8c8c8;
+  border-radius: 50%;
+}
+
+/* line 102, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile .information {
+  margin-left: 1.736vw;
+}
+
+/* line 104, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile .information h4 {
+  font-size: 1.667vw;
+  margin-bottom: 0;
+  margin-top: 1vw;
+}
+
+/* line 109, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile .information p {
+  font-size: 1.250vw;
+  margin-top: 0.347vw;
+}
+
+/* line 113, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile .information h6 {
+  font-size: 1.250vw;
+  margin-top: 0.347vw;
+  color: #aaa;
+  margin-bottom: 0;
+}
+
+/* line 119, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile .information .reg_date {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1.736vw;
+}
+
+/* line 123, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile .information .reg_date h5 {
+  font-size: 1.111vw;
+  margin: 0;
+}
+
+/* line 127, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .profile .information .reg_date p {
+  font-size: 1.111vw;
+  margin-left: 0.694vw;
+  margin-top: -.01vw;
+  color: #666;
+}
+
+/* line 136, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .saved {
+  margin-top: 4.167vw;
+}
+
+/* line 138, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .saved h2 {
+  font-size: 1.250vw;
+  margin: 0;
+}
+
+/* line 142, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .saved .post_s {
+  margin-top: 1.736vw;
+  width: 23.264vw;
+  height: 23.264vw;
+  background: #fff;
+  border-radius: 1.250vw;
+  position: relative;
+  padding-left: 2.083vw;
+}
+
+/* line 150, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .saved .post_s .skz_t {
+  position: absolute;
+  bottom: 2.083vw;
+}
+
+/* line 153, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .saved .post_s .skz_t h1 {
+  font-size: 2.431vw;
+  margin-bottom: 0;
+  line-height: 2.083vw;
+}
+
+/* line 158, app/assets/stylesheets/subscribers.scss */
+.subscribers .postsection_users .saved .post_s .skz_t p {
+  font-size: 1.250vw;
+  color: #808080;
+  margin-top: 0.694vw;
+  margin-bottom: 0;
+}
+
+/* line 170, app/assets/stylesheets/subscribers.scss */
+.buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 174, app/assets/stylesheets/subscribers.scss */
+.edition_s {
+  width: 11vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 1.488vw;
+}
+
+/* line 183, app/assets/stylesheets/subscribers.scss */
+.edition_s a {
+  margin-top: 0.417vw;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 191, app/assets/stylesheets/subscribers.scss */
+.back {
+  width: 6vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* line 199, app/assets/stylesheets/subscribers.scss */
+.back a {
+  margin-top: 0.417vw;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+/* line 5, app/assets/stylesheets/userview.scss */
+.postbody .user_posts {
+  width: 73.611vw;
+  margin-top: 9vw;
+  margin-left: 22.917vw;
+  margin-bottom: 7.639vw;
+}
+
+/* line 10, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .head_r {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* line 13, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .head_r h2 {
+  margin-top: 4.514vw;
+  font-size: 2.361vw;
+  font-weight: 700;
+  margin-left: 0;
+  margin-bottom: 1.736vw;
+}
+
+/* line 20, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .head_r p {
+  margin-top: 4.514vw;
+  color: #8E8E8E;
+  height: auto;
+  cursor: pointer;
+}
+
+/* line 27, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .head_user {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 31, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .head_user h2 {
+  font-size: 2.361vw;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* line 37, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .head_user .search form {
+  margin: 0;
+  width: 26.847vw;
+  height: 2.381vw;
+  background: #fff;
+}
+
+/* line 42, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .head_user .search form input[type="text"] {
+  outline-width: 0;
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -webkit-writing-mode: none;
+  color: transparent;
+  border-color: none;
+  background: transparent;
+  border: none;
+  font-size: 1.190vw;
+  font-weight: 400;
+  color: #444;
+  padding-left: .8vw;
+}
+
+/* line 57, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .head_user .search form input[type="submit"] {
+  width: 1.7vw;
+  height: 1.7vw;
+  background-image: url(search-a9f95e34bf5c9a32d8a580dc26c0752702550ec3463e578ed361db6371f3e73d.svg);
+  background-size: 100%;
+  margin-top: .3vw;
+  margin-right: 1vw;
+}
+
+/* line 70, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .post_of_the_day {
+  margin-top: 1.736vw;
+  width: 73.611vw;
+  height: 23.264vw;
+  border-radius: 1.250vw;
+  background: #fff;
+  padding-left: 3.125vw;
+  position: relative;
+}
+
+/* line 78, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .post_of_the_day .titles {
+  position: absolute;
+  bottom: 3.125vw;
+}
+
+/* line 81, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .post_of_the_day .titles .name_u {
+  font-size: 2.500vw;
+  line-height: 100%;
+  font-weight: 700;
+}
+
+/* line 86, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .post_of_the_day .titles .nation_u {
+  font-size: 1.250vw;
+  color: #808080;
+  margin-top: 0.694vw;
+}
+
+/* line 93, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .region_top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 97, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .region_top .skaz {
+  position: relative;
+  width: 23.264vw;
+  height: 23.264vw;
+  border-radius: 1.250vw;
+  background: #fff;
+  padding-left: 3.125vw;
+}
+
+/* line 104, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .region_top .skaz .titles {
+  position: absolute;
+  bottom: 3.125vw;
+}
+
+/* line 107, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .region_top .skaz .titles .name_u {
+  font-size: 2.500vw;
+  line-height: 100%;
+  font-weight: 700;
+}
+
+/* line 112, app/assets/stylesheets/userview.scss */
+.postbody .user_posts .region_top .skaz .titles .nation_u {
+  font-size: 1.250vw;
+  color: #808080;
+  margin-top: 0.694vw;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+
+ */
+ body{
+   min-height: 100vh;
+ }
+
+@font-face {
+   font-family: 'ProximaNova';
+   src: url('ProximaNova-Bold.woff') format("webopenfontformat");
+
+}
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('ProximaNova-Regular.woff') format("webopenfontformat");
+
+}
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('ProximaNova-Light.woff') format("webopenfontformat");
+}
+@font-face {
+  font-family: '20Kopeek-bold';
+  src: url('20Kopeek-DemiBold.otf');
+}
+@font-face {
+  font-family: '20Kopeek-book';
+  src: url('20Kopeek-Book.otf');
+}
+@font-face {
+  font-family: 'Craftwork-Grotesk';
+  src: url('CraftworkGrotesk-Medium.ttf');
+}
+@font-face {
+  font-family: '21Cent';
+  src: url('21Cent.ttf');
+}
+
+.top_menu {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  height: 4.167vw;
+  background: #000;
+  color: #fff;
+  font-size: 1.059vw;
+  font-weight: 600;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+}
+.top_menu a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 3.472vw;
+  font-size: 1.059vw;
+  font-weight: 600;
+}
+
+/* apppers ony if user logged in as a user */
+.user_panel{
+  position: absolute;
+  width: 19.236vw;
+  height: 100%;
+  background: #fff;
+}
+
+/* apppers ony if user logged in as an admin */
+.admin_panel{
+  display: block;
+  position: absolute;
+  width: 19.236vw;
+  height: 100%;
+  top: 0;
+  background: #fff;
+}
+.all_links{
+  position: fixed;
+  display: flex;
+  height: 14vw;
+  flex-direction: column;
+  margin-top: 8.681vw;
+  margin-left: 1.736vw;
+  justify-content:space-between;
+}
+.all_links a{
+  padding-top: .5vw;
+  height: 2.778vw;
+  color: #000;
+  font-size: 1.528vw;
+  font-weight: 600;
+  padding-left: 1.736vw;
+  text-decoration: none;
+}
+.chosen{
+  margin: 0;
+  width: 15.694vw;
+  height: 2.778vw;
+  background: #E5E5E5;
+  border-radius: 0.417vw;
+}
+.search form{
+    margin: 0;
+    width: 26.847vw;
+    height: 2.381vw;
+    background: #fff;
+}
+.search form input[type="text"]{
+  outline-width: 0;
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -webkit-writing-mode: none ;
+  color: transparent;
+  border-color: none;
+  background: transparent;
+  border: none;
+  font-size: 1.190vw;
+  font-weight: 400;
+  color: #444;
+  padding-left: .8vw;
+}
+.search form input[type="submit"]{
+  width: 1.7vw;
+  height: 1.7vw;
+  background-image: url("search.svg");;
+  background-size: 100%;
+  margin-top: .3vw;
+  margin-right: 1vw;
+}
+
+/*# sourceMappingURL=application.css-784ba300491ff36581ed38e582d9c8b6dba713a0d35e81f28944b65ec8d113e2.map */
